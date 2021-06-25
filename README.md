@@ -1,6 +1,6 @@
 
 
-<img align="right" src="https://viniciusanl.github.io/icones/Logo%20Vinicius%2025-11-2018.png" width="150"/>
+<img align="right" src="https://viniciusanl.github.io/icones/Logo%20Vinicius%2025-11-2018.png" width="250"/>
 
 
 ### Olá, bem vindo ao meu perfil. Me chamo Vinícius Andrade Lopes 👋
