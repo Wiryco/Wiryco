@@ -5,7 +5,7 @@
 
 ### Olá, bem vindo ao meu perfil. Me chamo Vinícius Andrade Lopes 👋
 
-- 🚀 Atualmente estou trabalhando na [GTCON Tecnologia & Serviços](https://www.gtcon.com.br/)
+- 🚀 Atualmente estou trabalhando na [GTCON Tecnologia & Serviços](https://www.gtcon.com.br/) no cliente [Aperam South America](https://brasil.aperam.com/)
 - 💻 Javascript / HTML / CSS / Oracle / Angular / .NET / Scrum 
 - ✨ Constante aprendizado sobre Ciência de Dados e Business Intelligence
 
