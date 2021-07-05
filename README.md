@@ -5,10 +5,11 @@
 
 ### Olá, bem vindo ao meu perfil. Me chamo Vinícius Andrade Lopes 👋
 
-- 🚀 Atualmente estou trabalhando na [GTCON Tecnologia & Serviços](https://www.gtcon.com.br/) no cliente [Aperam South America](https://brasil.aperam.com/)
-- 💻 Javascript / HTML / CSS / Oracle / Angular / .NET / Scrum 
-- ✨ Constante aprendizado sobre Ciência de Dados e Business Intelligence
+- 🚀 Atualmente estou trabalhando na [GTCON Tecnologia & Serviços](https://www.gtcon.com.br/) no cliente [Aperam South America](https://brasil.aperam.com/) como Analista de Sistemas.
+- 💻 Javascript / HTML / CSS / Oracle / Angular / .NET / Scrum.
+- ✨ Constante aprendizado sobre Ciência de Dados e Business Intelligence.
 
+- Linguagens de programação mais utilizadas:
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusanl&layout=compact&langs_count=16&theme=monokai"/>
 
 📫  Networking 👇
