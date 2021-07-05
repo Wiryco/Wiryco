@@ -9,6 +9,8 @@
 - 💻 Javascript / HTML / CSS / Oracle / Angular / .NET / Scrum 
 - ✨ Constante aprendizado sobre Ciência de Dados e Business Intelligence
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusanl&layout=compact&langs_count=16&theme=monokai"/>
+
 📫  Networking 👇
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-andrade-lopes/)
