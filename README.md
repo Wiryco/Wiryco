@@ -7,7 +7,7 @@
 
 - 🚀 Atualmente estou trabalhando na [GTCON Tecnologia & Serviços](https://www.gtcon.com.br/) no cliente [Aperam South America](https://brasil.aperam.com/) como Analista de Sistemas.
 - 💻 Javascript / HTML / CSS / Oracle / Angular / .NET / Scrum.
-- ✨ Constante aprendizado sobre Ciência de Dados e Business Intelligence.
+- ✨ Constante aprendizado sobre Ciência de Dados, Análise de Dados e Business Intelligence.
 <br></br>
 
 <!-- - 👨🏽‍💻 Linguagens de programação mais utilizadas: -->
