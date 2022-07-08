@@ -6,7 +6,7 @@
 ### Olá, bem vindo ao meu perfil. Me chamo Vinícius Andrade Lopes 👋
 
 - 🚀 Atualmente estou trabalhando na [TODOS Empreendimentos](https://cartaodetodos.com.br/) como Analista de Processamento de Dados.
-- 💻 Pentaho / SQL / Power BI / Python / R / Javascript / HTML / CSS / Oracle / Angular / .NET / Scrum. 
+- 💻 Pentaho / SQL / Power BI / Python / R / Javascript / SCRUM. 
 - ✨ Constante aprendizado sobre Ciência de Dados, Análise de Dados e Business Intelligence.
 <br></br>
 
