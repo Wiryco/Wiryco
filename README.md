@@ -27,3 +27,8 @@
     <i>Johann Wolfgang von Goethe</i>
   </div>
 </div>
+
+<!--
+https://github.com/iuricode/README-template/blob/main/badges/badges.md
+https://github.com/anuraghazra/github-readme-stats
+-->
