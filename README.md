@@ -1,17 +1,15 @@
-
-
 <img align="right" src="https://viniciusanl.github.io/icones/Logo%20Vinicius%2025-11-2018.png" width="250"/>
-
 
 ### Olá, bem vindo ao meu perfil. Me chamo Vinícius Andrade Lopes 👋
 
 - 🚀 Atualmente estou trabalhando na [TODOS Empreendimentos](https://cartaodetodos.com.br/) como Analista de Processamento de Dados.
 - 💻 Pentaho / SQL / Power BI / Python / R / Javascript / SCRUM. 
 - ✨ Constante aprendizado sobre Ciência de Dados, Análise de Dados e Business Intelligence.
-<br></br>
 
-<!-- - 👨🏽‍💻 Linguagens de programação mais utilizadas: -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusanl&layout=compact&langs_count=16&theme=calm "/>
+<p align="center">
+  <!-- - 👨🏽‍💻 Linguagens de programação mais utilizadas: -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusanl&layout=compact&langs_count=16&theme=calm "/>
+</p>
 
 📫  Networking 👇
 
