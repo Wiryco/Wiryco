@@ -8,7 +8,7 @@
 
 <p align="center">
   <!-- - 👨🏽‍💻 Linguagens de programação mais utilizadas: -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusanl&layout=compact&langs_count=16&theme=calm "/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusanl&layout=compact&langs_count=16&theme=calm"/>
 </p>
 
 📫  Networking 👇
