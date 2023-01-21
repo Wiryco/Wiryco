@@ -13,7 +13,8 @@
 
 📫  Networking 👇
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-andrade-lopes/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn_PT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-andrade-lopes/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn_ES-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-andrade-lopes/?locale=es_ES)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vinicius_anl/)
 [![Gmail Badge](https://img.shields.io/badge/vinicius.andlopes@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinicius.andlopes@gmail.com)
 
